@@ -1,3 +1,8 @@
+Multiple MySQL, postgres databases using Spring Boot
+In this applicaton I configure two local databases for a Spring Boot app. I use Sakila and World databases, two databases that the MySQL page give us to practice.
+This is done thanks to the @Configuration bean that Spring Boot give us.
+A better explanation of this repository and how to establish multiple connection to an Spring Boot app can be found in my
+
 # Spring Boot Multi-Database Application
 
 ## Overview
